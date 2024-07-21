@@ -1,2 +1,2 @@
-# AmidVoshakul1
-Banderogus
+# BanderoGus
+Banderogus my first game in python
